@@ -1,4 +1,4 @@
-nombre = "señor cara de potato"
+nombre = "señor cara de papa"
 apellido = "Bernal"
 
 saludo = "Hola " + nombre + " " + apellido+ "¿Comó estas?"
